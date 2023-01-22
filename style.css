@@ -1,0 +1,13 @@
+table, th, td {
+    background-color: #424250;
+    color: aliceblue;
+    border: 2px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    width: 300px;
+    padding: 10px;
+}
+
+.cabecalho {
+    background-color: #BB86FC;
+    text-align: center;
+}
